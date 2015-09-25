@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="com.tobiaslounsbury.lineitemsearch" type="module">
+  <file>lineitemsearch</file>
+  <name>LineItemSearch</name>
+  <description>This extension extends the search builder to include line items</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>tobiaslounsbury</author>
+    <email>tobiaslounsbury@gmail.com</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">http://FIXME</url>
+    <url desc="Documentation">http://FIXME</url>
+    <url desc="Support">http://FIXME</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2014-12-30</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.5</ver>
+  </compatibility>
+  <comments>This module is under development</comments>
+  <civix>
+    <namespace>CRM/LineItemSearch</namespace>
+  </civix>
+</extension>
